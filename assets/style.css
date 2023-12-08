@@ -1,0 +1,78 @@
+* {
+    font-family: 'Hedvig Letters Serif', serif;
+}
+
+header {
+    display: block;
+    width: 100%;
+}
+
+section{
+    display: block;
+}
+
+.push-right{
+    display: flex;
+    justify-content: flex-end;
+    background-color: olive;
+    padding: 10px;
+    border-bottom: 5px navy solid;
+}
+
+.align-center {
+    display: flex;
+    justify-content: center;
+    color: navy
+}
+
+.background-contact{
+    background-color: olive;
+    color: navy;
+    border-top: 5px navy solid;
+}
+
+.get-in-touch{
+    display: flex;
+    justify-content: center;
+    color: navy
+}
+
+.contact-button{
+    display: flex;
+    justify-content: center;
+}
+
+.footer {
+    background-color: navy;
+    color: olive;
+    border-top: 5px olive dotted;
+    border-bottom: 5px navy solid;
+}
+
+.contact-list {
+    padding: 5px;
+}
+
+#space-between{
+    padding: 0 7px 0 7px;
+}
+
+#align-box-center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px turquoise solid;
+}
+
+#button {
+    background-color: navy;
+    color: olive;
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 7px;
+    margin-bottom: 7px;
+    padding: 10px;
+    border: 10px;
+    }
